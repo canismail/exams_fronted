@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import { CSSTransitionGroup } from 'react-transition-group';
 import './Teacher.css';
 import axios from 'axios';
-import DatePicker from 'react-date-picker'; 
+import DatePicker from 'react-date-picker';
 
 
 class Teacher extends Component {
