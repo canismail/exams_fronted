@@ -1,0 +1,47 @@
+.App-logo {
+  animation: spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+input {
+  overflow: visible;
+  width: 750px;
+}
+
+.form-date-input{
+  overflow: visible;
+  width: 150px;
+  margin-left: 600px;
+}
+
+.button-1{
+  height: 50px;
+  position: relative;
+  margin-left: 520px;
+}
+
+.button-2{
+  height: 50px;
+  position: relative;
+  margin-left: 520px;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

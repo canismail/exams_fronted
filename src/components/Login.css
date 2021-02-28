@@ -1,0 +1,14 @@
+body {
+  margin: 16px !important;
+  text-align: -webkit-center !important;
+  margin: 10% !important;
+}
+
+.form-control  {
+  width: 30% !important;
+}
+
+.btn-block {
+  width: 4% !important;
+  padding: 0.5rem 14rem !important;
+}
